@@ -1,5 +1,5 @@
 # Piyush's To-Do List App
-
+Note- Make sure you Extract the projet first from this zip file before trying to run it!!
 A full-stack MERN (MongoDB, Express, React, Node.js) To-Do List application with user authentication, user-specific tasks, and persistent storage in MongoDB.
 
 ## Features
